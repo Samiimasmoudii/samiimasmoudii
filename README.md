@@ -28,7 +28,7 @@ I’m looking to collaborate on LLM projects. If you have an interesting project
 
 ## 📊 GitHub Stats
 <p align="left">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samiimasmoudii"/>
 </p>
 
 <p align="left">
