@@ -28,7 +28,7 @@ I’m looking to collaborate on LLM projects. If you have an interesting project
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samiimasmoudii&exclude_repo=github-readme-stats,Secure_File_storage_Facial_recognition"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samiimasmoudii&exclude_repo=github-readme-stats,Secure_File_storage_Facial_recognition,satellite-image-analysis"/>
 </p>
 
 <p align="left">
