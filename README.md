@@ -32,10 +32,6 @@ I’m looking to collaborate on LLM projects. If you have an interesting project
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiimasmoudii&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samiimasmoudii&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
