@@ -23,16 +23,6 @@ width"400"=/>
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samiimasmoudii&exclude_repo=Secure_File_storage_Facial_recognition,satellite-image-analysis&hide=jupyter%20notebook&rows=2"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samiimasmoudii&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ## 🛠️ Technologies and Tools
 ### Languages and Tools:
 
