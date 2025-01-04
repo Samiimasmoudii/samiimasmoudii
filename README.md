@@ -29,7 +29,7 @@ width"400"=/>
 #### Programming Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -44,64 +44,85 @@ width"400"=/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
 
 #### Frameworks and Libraries
 <p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <a href="https://anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Anaconda" width="40" height="40"/>
+  </a>
+   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
   </a>
   <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="Spring" width="40" height="40"/>
+  </a>
+   <a href="https://npmjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=npm" alt="Npm" width="40" height="40"/>
   </a>
 </p>
 
 #### Databases and Tools
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="Oracle" width="40" height="40"/>
   </a>
 </p>
 
 #### Development and Deployment Tools
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kali" alt="Kali" width="40" height="40"/>
+  </a>
+   <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/>
+  </a>
+   <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
   </a>
 </p>
 
@@ -110,11 +131,21 @@ width"400"=/>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="40" height="40"/>
   </a>
+  <a href="https://www.aws.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws" alt="LaTeX" width="40" height="40"/>
+  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
   </a>
-  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+ 
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" width="40" height="40"/>
+  </a>
+   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=idea" alt="Idea" width="40" height="40"/>
+  </a>
+   <a href="https://www.notion.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
   </a>
 </p>
 
