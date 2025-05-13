@@ -14,14 +14,6 @@ I’m looking to collaborate on LLM projects. If you have an interesting project
 - **Portfolio**: [Visit My Website](https://sami-masmoudi.notion.site/Sami-Masmoudi-120f625380c88021b3c8f0c8a5a128e4)
 
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samiimasmoudii&theme=onedark&no-frame=true&margin-w=10&row=1" 
-alt="GitHub Trophies" 
-width"400"=/>
-  </a>
-</p>
 
 ## 🛠️ Technologies and Tools
 ### Languages and Tools:
